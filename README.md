@@ -1,4 +1,4 @@
-# Mapty application for saving logs of your workouts on a map
+# Mapty app for saving logs of your workouts on a map
 
 Features:
 - Show your location on a map
